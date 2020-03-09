@@ -1,6 +1,6 @@
-# Exercicios-DW1A3
+	# Exercicios-DW1A3
 <!DOCTYPE html>
-<htnl lang = "pt-br">
+<html lang = "pt-br">
 <head>
    <meta charset="utf-8/>
    <title> HTML5 </title>
