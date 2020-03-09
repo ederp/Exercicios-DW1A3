@@ -1,2 +1,11 @@
 # Exercicios-DW1A3
-Materiais de Aula
+<!DOCTYPE html>
+<html>
+<head>
+    Dimas
+    <title> Dimas, primeiro </title>
+</head>
+<body>
+   Saude, guerreiro
+</body>
+</html>
