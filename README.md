@@ -2,8 +2,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-    Dimas
-    <title> Dimas, primeiro </title>
+   <title>  Dimas, o primeiro
+    </title>
 </head>
 <body>
    Saude, guerreiro
