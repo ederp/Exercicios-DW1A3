@@ -1,11 +1,14 @@
 # Exercicios-DW1A3
 <!DOCTYPE html>
-<html>
+<htnl lang = "pt-br">
 <head>
-   <title>  Dimas, o primeiro
-    </title>
+   <meta charset="utf-8/>
+   <title>HTML5 </title>
 </head>
 <body>
    Saude, guerreiro
 </body>
 </html>
+
+
+
