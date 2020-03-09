@@ -1,4 +1,3 @@
-	# Exercicios-DW1A3
 <!DOCTYPE html>
 <html lang = "pt-br">
 <head>
@@ -6,7 +5,7 @@
    <title> HTML5 </title>
 </head>
 <body>
-   dIMAS O PRIMEIRO Saude, guerreiro
+		  <h1> Dimas</h1>
 </body>
 </html>
 
