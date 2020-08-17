@@ -2,9 +2,9 @@
 <html lang="pt-br">
 <head>
 <meta charset="utf-8"/>
-<title>Quebra de linha</title>
+<title>Dados do Aluno</title>
 </head>
 <body>
-<p>A Terra<br>fica cem vezes mais pesada a cada dia<br>devido à queda de poeira no espaço.</p>
+<p>Adriano Raspante Suares SP3023231</p>
 </body>
 </html>
