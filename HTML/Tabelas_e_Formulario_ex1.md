@@ -3,15 +3,6 @@
 <head>
 	<meta charset="utf-8"/>
 	<title> Tabelas e Formulário - Exercicio 1 </title>
-	<style> type="text/css">
-		table {
-			border: none;}
-		th, td{
-			border: none;
-			background-color: #dddddd;
-			padding: 5px;
-			width: 100px;}
-	</style>
 </head>
 <body>
 <h3> Tabela - Produtos </h3>
@@ -51,5 +42,6 @@
 		<td>R$0,10</td>
 		<td colspan = "2">R$0,00</td>
 		</tr>
+	</table>
 </body>
 </html>
