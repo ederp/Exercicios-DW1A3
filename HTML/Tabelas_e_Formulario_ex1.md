@@ -28,15 +28,13 @@
 	    </tr>
 		<tr>
 		<td>A. Mascavo</td>
-		</tr>
-		
+		</tr>		
 	    <tr>
 		<td>Café</td>
 		<td>R$1,00</td>
 		<td>R$5,00</td>
 		<td>R$4,00</td>
-	    </tr>
-		
+	    </tr>		
 		<tr>
 		<td>Guardanapo</td>
 		<td>R$0,10</td>
