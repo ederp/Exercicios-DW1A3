@@ -1,3 +1,5 @@
+
+/*
 function venda(brand, model, ageM, ageF, priceIn, pmtQtd, pmt, descPer, entrance, priceOut, date) {
     
     this.brand = brand;
@@ -51,8 +53,10 @@ documento.getElementById("resposta").innerHTML= "Dados da Venda  :" +"<br>" + "M
   var btCalcular = document.getElementById("btCalcular");
 btCalcular.addEventListener("click", mostrarDados);
 
+*/
+
 /*
-    function classificarVeiculo(qtdPar) {
+    function classificarVeiculo(preco) {
       if (qtdPar==1){
           classificacao ="a vista";
       }else{ 
@@ -60,19 +64,32 @@ btCalcular.addEventListener("click", mostrarDados);
       }      
     return classificacao;
      }
+*/
 
-  function calcularSaldo(preco, classificacao) {
-      if (classificacao == "a vista"){
-          saldo = preco-desconto;
+var preco = document.getElementById("inPreco");
+
+  function calcularSaldo(preco) {
+      var vista, prazo, saldo;
+      vista = parseFloat(document.getElementById("inDescVista=").value);
+      prazo = parseFloat(document.getElementById("inDescPrazo").value);
+      if (vista != null){
+          saldo = preco * (1 - (desconto / 100));
   }else{
           saldo = preco-entrada}
     return saldo;
+      
+        var btCalcular = document.getElementById("btCalcular");
+        btCalcular.addEventListener("click", mostrarDados);
           }
 
+
+/*
    funtion calcularParcela(saldo, qtdPar){       
            parcela=saldo/qtdPar;
        return parcela;
    }   
-   */
+
+*/
+   
         
  
